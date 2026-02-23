@@ -28,25 +28,25 @@
 ## File Structure
 
 tea-house/
-│
-├─ index.html
-├─ images/
-│ ├─ banner.png
-│ ├─ rating.png
-│ ├─ tea-1.png
-│ ├─ tea-2.png
-│ ├─ tea-3.png
-│ ├─ tea-4.png
-│ ├─ fresh-1.png
-│ ├─ fresh-2.png
-│ ├─ client.png
-│ ├─ circles.png
-│ ├─ news-1.png
-│ ├─ news-2.png
-│ ├─ news-3.png
-│ └─ cup.png
-├─ styles/ (optional if custom CSS added)
-└─ README.md
+- │
+- ├─ index.html
+- ├─ images/
+- │ ├─ banner.png
+- │ ├─ rating.png
+- │ ├─ tea-1.png
+- │ ├─ tea-2.png
+- │ ├─ tea-3.png
+- │ ├─ tea-4.png
+- │ ├─ fresh-1.png
+- │ ├─ fresh-2.png
+- │ ├─ client.png
+- │ ├─ circles.png
+- │ ├─ news-1.png
+- │ ├─ news-2.png
+- │ ├─ news-3.png
+- │ └─ cup.png
+- ├─ styles/ (optional if custom CSS added)
+- └─ README.md
 
 ## How to Use
 
@@ -68,8 +68,8 @@ Open index.html in a web browser to view the website.
 
 This project is for personal use, portfolio showcase, or educational purposes.
 
-## Author
+## Author- 
 
-- Nafiz Alam
-- Email: nafizalam@gmail.com
-- Location: Dhaka, Bangladesh
+- **Name**: Nafiz Alam
+- **Email**: nafizalam@gmail.com
+- **Location**: Dhaka, Bangladesh
